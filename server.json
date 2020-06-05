@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
+      "title": "Camisa pika das galáxias",
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
       "price": 50
     },
